@@ -9,7 +9,7 @@ type: Meta
 created: 2026-07-18
 requires: 4, 33
 vote-to: https://vote.rocketpool.net/#/proposal/0xe856fea4f85ea5fb7488402b1073ff8cec9b9f6cec58e9173921cc5c42bbd3c3
-vote-date: 2026-08-18
+vote-date: 2026-08-19
 vote-result: Passed
 ---
 
